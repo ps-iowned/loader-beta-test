@@ -32,10 +32,11 @@ Status
 ARM Firmware | Status | Issue
 -------------|--------|----
 2.5.4        | Menu boot, games boot |
+2.6.1        | Menu boot, games boot | https://github.com/ps-iowned/loader-beta-test/issues/2
 2.7.14       | Menu not boot | https://github.com/ps-iowned/loader-beta-test/issues/1
-
 
 Downloads
 -
 Downloads are [here](versions). Sorted by date. Possible to downgrade and test multiple versions.
+- [2023-08-24-01 @ same version, different iso build](versions/2023-08-24-01-012bbfd6)
 - [2023-08-23-01 @ first version](versions/2023-08-23-01-012bbfd6)
