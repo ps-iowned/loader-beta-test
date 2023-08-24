@@ -27,6 +27,7 @@ Status
 - Only 512 games. Need more testing for more than 512 games.
 - No CDDA/XA. Kernel patch is dangerous. Coming soon.
 - No game list sort. Coming soon.
+- PAL offcentered. Issues: https://github.com/ps-iowned/loader-beta-test/issues/2, https://github.com/grumpycoders/pcsx-redux/issues/1405
 
 ARM Firmware | Status | Issue
 -------------|--------|----
