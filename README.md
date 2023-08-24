@@ -28,6 +28,12 @@ Status
 - No CDDA/XA. Kernel patch is dangerous. Coming soon.
 - No game list sort. Coming soon.
 
+ARM Firmware | Status | Issue
+-------------|--------|----
+2.5.4        | Menu boot, games boot |
+2.7.14       | Menu not boot | https://github.com/ps-iowned/loader-beta-test/issues/1
+
+
 Downloads
 -
 Downloads are [here](versions). Sorted by date. Possible to downgrade and test multiple versions.
