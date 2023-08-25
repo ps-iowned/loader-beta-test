@@ -38,5 +38,6 @@ ARM Firmware | Status | Issue
 Downloads
 -
 Downloads are [here](versions). Sorted by date. Possible to downgrade and test multiple versions.
+- [2023-08-25-01 @ PAL fix, iso fix](versions/2023-08-24-01-012bbfd6)
 - [2023-08-24-01 @ same version, different iso build](versions/2023-08-24-01-012bbfd6)
 - [2023-08-23-01 @ first version](versions/2023-08-23-01-012bbfd6)
